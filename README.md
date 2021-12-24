@@ -19,5 +19,5 @@
 5 > Move to next cell
 6 < Move to privious cell
 7 [ Star loop while ASCII in Cell !=0
-8 < End loop, Break if ASCII in current Cell==0
+8 ] End loop, Break if ASCII in current Cell==0
 ```
