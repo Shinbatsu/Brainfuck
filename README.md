@@ -4,8 +4,9 @@
 
 >This Repo contain .bf programs, which i wrote for fun, soo... If you have a  little free time you can find here simple programs!
 
-### Brainfuck is popular isoterical programming language
-
+### Some Prehistory
+> Brainfuck is one of the most well-known esoteric programming languages. 
+> But it can be hard to understand any code longer that 5 characters.
 > he have only 8 commands, and at the same time has a full turing form.That is Amazing!
 
 ### Main Opetaros:
